@@ -1,0 +1,16 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+This page has some information about me.
+
+## My pet
+
+When I was in college, I had a little dog named coconut. When it first arrived home, it was so tiny and adorable.
+
+<img src="images/coconut.jpg" style="width:55%">
+
+## 

@@ -1,0 +1,59 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+About my academic and professional experience.
+
+# Education                                                                                             
+**Xi'an Jiaotong-Liverpool University**: 09/2021 – 07/2025
+
+**Major**: B.Sc. Actuarial Science
+
+**GPA**: 3.31/4.0 (2.1 Class Degree)
+
+**Core Courses**: Linear Algebra, Calculus, Multivariable Calculus, Intro to Insurance, Advanced Linear Algebra, Intro to Probability and Statistics, Intro to Statistical Methods, Statistical Distribution Theory, Life Insurance Mathematics, Theory of Interest, Intro to Financial Mathematics, Mathematical Risk Theory, Foundations of Financial Computing, Intro to Finance, Principles of Macroeconomics, Intro to Financial Accounting, Principles of Microeconomics, Econometrics, Securities Market, Linear Statistical Models, Stochastic Modeling in Insurance and Finance, Loss Distribution
+
+**Coursera**: Data Science: Machine Learning, Data Analytics in Accounting and Finance
+
+
+# Professional Experience
+
+## Internship
+
+**CITIC Securities Company Ltd. (China)**
+
+Investment Analyst Intern: 07/2024 – 08/2024
+
+I conducted a detailed analysis of the profit and loss data and stock performance of the film and television media industry over the past five years, providing strategic insights for market development;
+
+* Collect the financial report data of leading enterprises such as Huayi Brothers, Baona Pictures, and Light Media. 
+* Through statistical analysis, the core financial indicators were examined: the average revenue growth rate of the industry over the past five years was 12%, with a standard deviation of 8%, highlighting the volatility characteristic. 
+* Using the Python visualization library to present the performance trends, it was discovered that external factors such as the pandemic had caused the net profit of a certain enterprise to drop by 30%. 
+* Through a comparison of financial data and stock prices, it was determined that Huayi Brothers had the highest average annual revenue growth rate (15%), while Light Media was the most stable investment target.
+
+
+**China Everbright Bank (China)**
+
+Risk Analyst Intern: 08/2023 – 09/2023
+
+Developed and deployed predictive models to enhance loan risk assessment and improved accuracy by 12% and potentially saving $1.2 million annually through refined underwriting policies;
+
+* Processed 5,000+ loan applications using Python, increasing data completeness from 75% to 90%. EDA revealed a 15% higher default rate for loans exceeding 5-year terms. Feature engineering reduced defaults by 10% after incorporating co-signer variables.
+* Developed a logistic regression model achieving 88% accuracy and 85% precision in identifying high-risk loans. Implemented random forest to improve AUC from 0.75 to 0.82, validated with 87% cross-validation score.
+* Deployed the model via Flask for real-time risk assessment. Recommended stricter long-term loan policies, projected to save $1.2M annually in bad debt.
+
+## Research & Projects
+
+**Impact of Standardization on China's Logistics Industry**
+
+* Analyzed the impact of standardization on China's logistics industry using Stata
+
+* Formulated hypotheses to examine the impact of standardization on China's logistics industry and selected five key indicators as dependent variables
+* Developed and analyzed five statistical models using Stata and leveraged time series data from 2010 to 2019 to assess correlations between standardization levels and logistics scale, cost, and development
+* Conducted correlation analysis revealing significant relationships, such as a positive correlation (r = 0.964, p < 0.01) between standardization and logistics scale and a negative correlation (r = -0.767, p < 0.01) between standardization and logistics costs.
+* Utilized Stata to achieve high model fit with R² values of 0.964, 0.8649, 0.9865, 0.8696, and 0.9101 across different models, demonstrating the robustness of the analysis.
+* Provided data-driven insights to policymakers to highlight the critical role of standardization in enhancing logistics efficiency, reducing costs, and promoting industry development.
+

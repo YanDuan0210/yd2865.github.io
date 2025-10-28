@@ -1,0 +1,38 @@
+---
+title: "Yan's website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<img src="images/Ruby.jpg" style="float: right; margin-left: 10px; width: 238px;">
+
+# Introduction
+
+**Name**: Yan (Ruby) Duan
+
+**Nationality**: China
+
+**Date of birth**: 02/10/2003
+
+**Sex**: female
+
+**Languages**: Mandarin, English, Japanese
+
+**Hobbies**: Cooking, KPOP, Doing sports
+
+**Software**: Python, R, MATLAB
+
+
+
+# Welcome to Yan's website!
+
+<img src="images/welcome.jpg" style="width:90%">
+
+## About me
+If you want to know more details about me, please click [here](About.html).
+
+## Resume
+
+You can find my academic and professional experience in this [resume](About.html) page.
