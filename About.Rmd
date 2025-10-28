@@ -13,4 +13,16 @@ When I was in college, I had a little dog named coconut. When it first arrived h
 
 <img src="images/coconut.jpg" style="width:55%">
 
-## 
+## Favorite singer
+
+My favorite singer is Taylor Swift. I started listening to her songs when I was 12 years old. Her songs have accompanied me through many nights and days. I hope one day I can go to her concert and hope she can release more wonderful albums.
+
+<img src="images/taylor.jpg" style="width:55%">
+
+## Cooking
+
+I enjoy cooking. I think having meals prepared by myself is a very fulfilling experience.
+
+<img src="images/cooking.jpg" style="width:60%">
+
+I hope to make friends with more people who share the same interests and hobbies.

@@ -35,4 +35,5 @@ If you want to know more details about me, please click [here](About.html).
 
 ## Resume
 
-You can find my academic and professional experience in this [resume](About.html) page.
+You can find my academic and professional experience in this [resume](Resume.html) page.
+
