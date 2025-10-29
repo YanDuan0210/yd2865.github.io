@@ -6,9 +6,10 @@ output:
     toc_float: true
 ---
 
-<img src="images/Ruby.jpg" style="float: right; margin-left: 10px; width: 238px;">
 
 # Introduction
+
+<img src="images/Ruby.jpg" style="float: right; margin-left: 10px; width: 200px;">
 
 **Name**: Yan (Ruby) Duan
 
@@ -37,3 +38,12 @@ If you want to know more details about me, please click [here](About.html).
 
 You can find my academic and professional experience in this [resume](Resume.html) page.
 
+## Dashboard
+
+I create a [flexdashboard](dashboard.html) using the `Instacart` dataset and it includes three distinct plot types.
+
+I conducted data cleaning and filtering on the dataset, and studied the following three issues:
+
+* The products that are most frequently added to the cart.
+* The distribution of the sequence in which different departments' products are added to the cart.
+* The trend of order quantities at different times of the day.
