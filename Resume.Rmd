@@ -18,10 +18,6 @@ B.Sc. Actuarial Science
 
 GPA: 3.31/4.0 (2.1 Class Degree)
 
-**Core Courses**: Linear Algebra, Calculus, Multivariable Calculus, Intro to Insurance, Advanced Linear Algebra, Intro to Probability and Statistics, Intro to Statistical Methods, Statistical Distribution Theory, Life Insurance Mathematics, Theory of Interest, Intro to Financial Mathematics, Mathematical Risk Theory, Foundations of Financial Computing, Intro to Finance, Principles of Macroeconomics, Intro to Financial Accounting, Principles of Microeconomics, Econometrics, Securities Market, Linear Statistical Models, Stochastic Modeling in Insurance and Finance, Loss Distribution
-
-**Coursera**: Data Science: Machine Learning, Data Analytics in Accounting and Finance
-
 
 # Professional Experience
 
